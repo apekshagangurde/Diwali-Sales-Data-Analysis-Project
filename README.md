@@ -51,8 +51,9 @@ Here are some snapshots of the project:
 
 2. [Snapshot 2](![Screenshot 2](https://github.com/apekshagangurde/Diwali-Sales-Data-Analysis-Project/assets/100061307/4085c28c-c7d8-491c-bfed-6d1b5bf10b50)
 ])
-3. [Snapshot 3](![Screenshot 1](https://github.com/apekshagangurde/Diwali-Sales-Data-Analysis-Project/assets/100061307/452c7b1d-4a17-490f-b6a1-5d80ca07b8b6)
-)
+3. [Snapshot 3](![Screenshot 3](https://github.com/apekshagangurde/Diwali-Sales-Data-Analysis-Project/assets/100061307/d24dd4cb-cc66-412d-8165-1609cc2322b1))
+
+
 
 ## Conclusion
 
