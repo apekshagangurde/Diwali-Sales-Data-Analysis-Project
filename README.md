@@ -46,7 +46,7 @@ For a step-by-step walkthrough of the analysis process, you can watch the comple
 
 Here are some snapshots of the project:
 
-1. [Snapshot 1](snapshots/snapshot1.png)
+1. [Snapshot 1](https://github.com/apekshagangurde/Diwali-Sales-Data-Analysis-Project/blob/master/images/Screenshot%201.png)
 2. [Snapshot 2](snapshots/snapshot2.png)
 3. [Snapshot 3](snapshots/snapshot3.png)
 
