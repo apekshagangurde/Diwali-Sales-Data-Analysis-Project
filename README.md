@@ -46,10 +46,13 @@ For a step-by-step walkthrough of the analysis process, you can watch the comple
 
 Here are some snapshots of the project:
 
-![Image Description] (https://github.com/apekshagangurde/Diwali-Sales-Data-Analysis-Project/blob/master/images/Screenshot%201.png))
+1. [Snapshot 1] (![Screenshot 1](https://github.com/apekshagangurde/Diwali-Sales-Data-Analysis-Project/assets/100061307/49361a8d-2aec-43c3-8e9c-84855612147c)
+)
 
-2. [Snapshot 2](snapshots/snapshot2.png)
-3. [Snapshot 3](snapshots/snapshot3.png)
+2. [Snapshot 2](![Screenshot 2](https://github.com/apekshagangurde/Diwali-Sales-Data-Analysis-Project/assets/100061307/4085c28c-c7d8-491c-bfed-6d1b5bf10b50)
+])
+3. [Snapshot 3](![Screenshot 1](https://github.com/apekshagangurde/Diwali-Sales-Data-Analysis-Project/assets/100061307/452c7b1d-4a17-490f-b6a1-5d80ca07b8b6)
+)
 
 ## Conclusion
 
